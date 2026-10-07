@@ -1,1 +1,1 @@
-# AI-MHD
+# tuyen_sinh
